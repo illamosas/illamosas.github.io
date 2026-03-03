@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Experiencia profesional
+**Investigador en Economía** Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2024–presente)
+**Economista** — Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2016–2024)
 
-**Economista** — Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2016–presente)
-
-**Profesor Asociado C** — Universidad de Guadalajara, CUCEA, Departamento de Finanzas (2007–presente)
+**Profesor Asociado C** — Universidad de Guadalajara, CUCEA, Departamento de Finanzas
 - Economía Bancaria e Ingeniería Financiera (Maestría en Economía)
 - Métodos Cuantitativos (Maestría en Negocios y Estudios Económicos)
 
