@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Experiencia profesional
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Economista** — Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2016–presente)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Profesor Asociado C** — Universidad de Guadalajara, CUCEA, Departamento de Finanzas (2007–presente)
+- Economía Bancaria e Ingeniería Financiera (Maestría en Economía)
+- Métodos Cuantitativos (Maestría en Negocios y Estudios Económicos)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Formación académica
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+| Grado | Institución | Año |
+|-------|------------|-----|
+| PhD en Economía | University of Arizona | 2014 |
+| M.A. en Economía | University of Arizona | 2010 |
+| Maestría en Economía | CIDE | 2004 |
+| Lic. en Administración Financiera y Sistemas | Universidad de Guadalajara | 2000 |
+
+**Becas:** Fulbright-García Robles, PRODEP, CONACyT.
+
+## Habilidades de programación
+
+- **R** — Avanzado
+- **Stata** — Avanzado
+- **Python** — Intermedio-Avanzado
+- **LaTeX** — Intermedio
+
+## Publicaciones
+
+Ver la [lista completa de publicaciones](/publications/) o mi perfil en [Google Scholar](https://scholar.google.com/citations?hl=en&user=VtDkDT0AAAAJ).
