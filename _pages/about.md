@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Soy economista en la [Dirección General de Investigación Económica](https://www.banxico.org.mx/) del **Banco de México**, en la Delegación Regional Guadalajara, y **Profesor Asociado C** en el Departamento de Finanzas de la [Universidad de Guadalajara (CUCEA)](http://www.cucea.udg.mx/).
+Soy investigador en economía en la [Dirección General de Investigación Económica](https://www.banxico.org.mx/) del **Banco de México**, en la Delegación Regional Guadalajara, y **Profesor Asociado C** en el Departamento de Finanzas de la [Universidad de Guadalajara (CUCEA)](http://www.cucea.udg.mx/).
 
 Mi investigación se centra en **economía regional, crecimiento y desarrollo**, con interés particular en los efectos del nearshoring, inversión extranjera directa y aplicaciones innovadoras de datos satelitales para el análisis económico.
 
