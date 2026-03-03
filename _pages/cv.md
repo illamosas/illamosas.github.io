@@ -11,6 +11,7 @@ redirect_from:
 
 ## Experiencia profesional
 **Investigador en Economía** Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2024–presente)
+
 **Economista** — Banco de México, Dirección General de Investigación Económica, Delegación Regional Guadalajara (2016–2024)
 
 **Profesor Asociado C** — Universidad de Guadalajara, CUCEA, Departamento de Finanzas
